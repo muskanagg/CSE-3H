@@ -1,6 +1,11 @@
+#include<stdio.h>
 void sum(int x,int y)
 {
 int sum;
 sum=x+y;
 printf("sum=%d",sum);
 }
+int main()
+{
+sum(2,3);
+return 0;}
