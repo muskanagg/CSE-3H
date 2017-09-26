@@ -1,0 +1,6 @@
+void sum(int x,int y)
+{
+int sum;
+sum=x+y;
+printf("sum=%d",sum);
+}
